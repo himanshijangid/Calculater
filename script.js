@@ -17,5 +17,7 @@ function allClear(){
     input.value = expression;
 }
 function del(){
-    
+    expression = input.value.length;
+    expression-1;
+
 }
