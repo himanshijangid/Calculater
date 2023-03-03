@@ -70,3 +70,15 @@
   cursor: pointer;
   font-size: large;
 }
+#equal {
+  width: 126px;
+  height: 60px;
+  margin: 7px 0 3px 6px;
+  border-radius: 40px;
+  border: none;
+  background-color: rgba(255, 111, 0, 0.525);
+  /* background-color: rgba(128, 128, 128, 0.358); */
+  color: white;
+  cursor: pointer;
+  font-size: large;
+}
